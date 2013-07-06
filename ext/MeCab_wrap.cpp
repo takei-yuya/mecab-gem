@@ -1831,7 +1831,7 @@ static swig_module_info swig_module = {swig_types, 10, 0, 0, 0, 0};
 /* -------- TYPES TABLE (END) -------- */
 
 #define SWIG_init    Init_MeCab
-#define SWIG_name    "MeCab"
+#define SWIG_name    "mecab"
 
 static VALUE mMeCab;
 
