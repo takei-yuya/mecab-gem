@@ -36,9 +36,11 @@ git checkout Library/Formula/mecab.rb
 
 #Unix 
 
-download https://mecab.googlecode.com/files/mecab-0.98.tar.gz 
+```
+curl https://mecab.googlecode.com/files/mecab-0.98.tar.gz 
 tar zxf mecab-0.98.tar.gz
 cd mecab-0.98
 ./configure --with-charset=utf8 --enable-utf8-only
 make
 sudo make install
+```
