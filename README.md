@@ -49,7 +49,7 @@ Installing prerequisites
 #Mac with homebrew
 
 The latest mecab is not supported by this wrapper (http://d.hatena.ne.jp/jiikko/20130315)
-will install 0.996 at time of writing so it may be preferable to follow
+`brew install mecab` will install 0.996 at time of writing so it may be preferable to follow
 the manual unix instructions. (Or fix this library)
 
 ```ruby
