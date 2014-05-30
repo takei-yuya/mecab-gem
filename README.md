@@ -7,11 +7,6 @@ I don't take any credit for this gem.
 
 Original is at https://github.com/hotchpotch/mecab-ruby-gem
 
-0.996 compatibility
-===================
-This currently works with a rather old version of mecab(0.98), if you want 
-0.996 you can try out the 0_996 branch
-
 
 Example Usage
 =============
