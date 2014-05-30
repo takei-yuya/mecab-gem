@@ -1,6 +1,8 @@
 MeCab
 =====
 
+[![Build Status](https://travis-ci.org/markburns/mecab.svg)](https://travis-ci.org/markburns/mecab)
+
 This fork exists solely to make mecab easier to install.
 I've also renamed the gem from mecab-ruby-gem to just mecab.
 I don't take any credit for this gem.
